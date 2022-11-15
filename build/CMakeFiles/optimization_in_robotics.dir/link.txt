@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -O3 -Wall -Wextra -g -shared -Wl,-soname,liboptimization_in_robotics.so -o liboptimization_in_robotics.so CMakeFiles/optimization_in_robotics.dir/src/problem.cpp.o CMakeFiles/optimization_in_robotics.dir/src/solver.cpp.o 

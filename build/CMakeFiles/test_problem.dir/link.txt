@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -Wall -Wextra -g CMakeFiles/test_problem.dir/test/test_problem.cpp.o -o test_problem  -Wl,-rpath,/home/mm/optimization_in_robotics/build liboptimization_in_robotics.so 

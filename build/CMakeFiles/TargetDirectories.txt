@@ -1,0 +1,5 @@
+/home/mm/optimization_in_robotics/build/CMakeFiles/optimization_in_robotics.dir
+/home/mm/optimization_in_robotics/build/CMakeFiles/test_problem.dir
+/home/mm/optimization_in_robotics/build/CMakeFiles/test_solver.dir
+/home/mm/optimization_in_robotics/build/CMakeFiles/edit_cache.dir
+/home/mm/optimization_in_robotics/build/CMakeFiles/rebuild_cache.dir

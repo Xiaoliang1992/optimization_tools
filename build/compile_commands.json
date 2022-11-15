@@ -1,0 +1,22 @@
+[
+{
+  "directory": "/home/mm/optimization_in_robotics/build",
+  "command": "/usr/bin/c++ -Doptimization_in_robotics_EXPORTS -I/usr/include/eigen3 -I/home/mm/optimization_in_robotics/include -O3 -Wall -Wextra -g -fPIC -std=gnu++14 -o CMakeFiles/optimization_in_robotics.dir/src/problem.cpp.o -c /home/mm/optimization_in_robotics/src/problem.cpp",
+  "file": "/home/mm/optimization_in_robotics/src/problem.cpp"
+},
+{
+  "directory": "/home/mm/optimization_in_robotics/build",
+  "command": "/usr/bin/c++ -Doptimization_in_robotics_EXPORTS -I/usr/include/eigen3 -I/home/mm/optimization_in_robotics/include -O3 -Wall -Wextra -g -fPIC -std=gnu++14 -o CMakeFiles/optimization_in_robotics.dir/src/solver.cpp.o -c /home/mm/optimization_in_robotics/src/solver.cpp",
+  "file": "/home/mm/optimization_in_robotics/src/solver.cpp"
+},
+{
+  "directory": "/home/mm/optimization_in_robotics/build",
+  "command": "/usr/bin/c++  -I/usr/include/eigen3 -I/home/mm/optimization_in_robotics/include -O3 -Wall -Wextra -g -std=gnu++14 -o CMakeFiles/test_problem.dir/test/test_problem.cpp.o -c /home/mm/optimization_in_robotics/test/test_problem.cpp",
+  "file": "/home/mm/optimization_in_robotics/test/test_problem.cpp"
+},
+{
+  "directory": "/home/mm/optimization_in_robotics/build",
+  "command": "/usr/bin/c++  -I/usr/include/eigen3 -I/home/mm/optimization_in_robotics/include -O3 -Wall -Wextra -g -std=gnu++14 -o CMakeFiles/test_solver.dir/test/test_solver.cpp.o -c /home/mm/optimization_in_robotics/test/test_solver.cpp",
+  "file": "/home/mm/optimization_in_robotics/test/test_solver.cpp"
+}
+]
